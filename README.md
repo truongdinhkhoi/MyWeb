@@ -1,87 +1,53 @@
+💻 TRƯƠNG ĐÌNH KHÔI
+Kỹ sư Hệ thống & Giải pháp Công nghệ
 
-Xin chào, tôi là Trương Đinh Khôi.
-Đây là trang web cá nhân được thiết lập để giới thiệu về bản thân cũng như các nội dung chuyên môn trong ngành công nghệ.
+1 Tầm nhìn: "Đơn giản hóa những hệ thống phức tạp, xây dựng nền tảng số vững chắc và tin cậy."
 
-1. Mục tiêu cốt lõi
-Giới thiệu chân dung và hồ sơ cá nhân.
+🔬 Chân dung kỹ thuật
+Tôi là một lập trình viên chuyên sâu về hạ tầng, dành trọn tâm huyết cho việc phát triển các giải pháp Backend hiệu năng cao và tích hợp hệ sinh thái IoT thông minh. Tôi tin rằng một hệ thống tốt là một hệ thống không chỉ hoạt động ổn định mà còn phải có khả năng tự động hóa và mở rộng không giới hạn.
 
-Hệ thống hóa các năng lực và nền tảng kiến thức.
 
-Trình diễn danh mục các dự án đã hoàn thành.
 
-Tạo kênh tương tác với người xem qua trang liên hệ.
 
-2. Sơ đồ trang web (Sitemap)
-Hệ thống bao gồm 6 phân vùng nội dung chính:
+2 🛠 Hệ sinh thái kỹ năng
+Xử lý hệ thống:
 
-Trang chủ.
+Vận hành hạ tầng: Docker, Kubernetes, AWS/Azure.
 
-Về tôi.
+Giao thức kết nối: Thiết kế API chuyên nghiệp, MQTT, Microservices.
 
-Sản phẩm.
+Lưu trữ dữ liệu: Quản trị và tối ưu SQL & NoSQL.
 
-Góc chia sẻ (Blog).
 
-Kết nối.
 
-Điều khoản.
 
-3. Nội dung chi tiết từng trang
-3.1 Trang chủ
-Ảnh bìa đại diện cá nhân.
 
-Danh tính: Trương Đinh Khôi.
+3 🌟 Mục tiêu & Cam kết
+Hiệu suất: Tối ưu hóa từng dòng code để đảm bảo tốc độ xử lý nhanh nhất.
 
-Các nút chuyển hướng nhanh (Xem sản phẩm, Khám phá thêm).
+Ổn định: Thiết kế kiến trúc chịu tải tốt và bảo mật thông tin tuyệt đối.
 
-Lời ngỏ ngắn gọn về định hướng bản thân.
-👉 Mục tiêu: tạo sự thu hút ngay từ cái nhìn đầu tiên.
+Sáng tạo: Luôn cập nhật và ứng dụng những công nghệ mới nhất để giải quyết bài toán của doanh nghiệp.
 
-3.2 Trang giới thiệu
-Hồ sơ cá nhân chi tiết.
 
-Câu chuyện về hành trình phát triển bản thân.
 
-Tổng hợp năng lực chuyên môn và kinh nghiệm làm việc.
-👉 Mục tiêu: cung cấp các thông tin nền tảng quan trọng.
 
-3.3 Trang dự án
-Danh mục các giải pháp phần mềm đã triển khai.
 
-Tư liệu hình ảnh mô phỏng thực tế.
+4 📩 Liên hệ hợp tác:
 
-Tiêu đề dự án kèm tóm tắt nội dung giải pháp.
-👉 Mục tiêu: trình diễn các thành quả sáng tạo cá nhân.
+Hòm thư: truongdinhkhoi@gmail.com
 
-3.4 Trang chi tiết dự án
-Dữ liệu cụ thể về bối cảnh và mục tiêu dự án.
+Vị trí: Nha Trang, Việt Nam
 
-Album ảnh demo các tính năng sản phẩm.
+Xem thêm: Chi tiết tại mục "Hệ Thống" trên website.
 
-Hệ sinh thái công nghệ áp dụng (.NET 9.0, React Native).
 
-Giá trị thực tiễn và kết quả đạt được.
-👉 Mục tiêu: diễn giải cặn kẽ tư duy giải quyết vấn đề qua từng dự án.
 
-3.5 Trang liên hệ
-Khung tiếp nhận thông tin trao đổi:
 
-Họ và tên người gửi.
+<img width="405" height="308" alt="trangchu" src="https://github.com/user-attachments/assets/a70b4bda-80bb-407c-9e16-0299f21ec8ed" />
+<img width="437" height="310" alt="77ed9fbb-cb4e-4a67-9250-3ae25170bdea" src="https://github.com/user-attachments/assets/cd6c5db4-7300-49b3-b0c9-dd3f55463b24" />
+<img width="297" height="316" alt="77ed9fbb-cb4e-4a67-9250-3ae25170bdea (1)" src="https://github.com/user-attachments/assets/c353be71-cebf-45ad-9b04-139f0333690b" />
 
-Địa chỉ thư điện tử.
+<img width="317" height="325" alt="image" src="https://github.com/user-attachments/assets/3cd75d9a-8df4-46c7-a0bb-f2541ab3f053" />
+<img width="346" height="298" alt="image" src="https://github.com/user-attachments/assets/d842eb1c-c032-499d-88ef-0ea28278c444" />
 
-Nội dung cần thảo luận.
-
-Thông tin kết nối trực tiếp khác.
-👉 Mục tiêu: tạo sự thuận tiện cho việc hợp tác và thảo luận.
-
-4. Ngôn ngữ thiết kế (UI)
-Bảng màu chủ đạo: Trắng - Đen (Phong cách tối giản).
-
-Hệ thống điều hướng trực quan và mạch lạc.
-
-Sắp xếp bố cục khoa học, hợp lý.
-
-Kiểu chữ hiện đại, tối ưu cho trải nghiệm đọc.
-
-Cấu trúc hiển thị tinh gọn, chuyên nghiệp.
