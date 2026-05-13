@@ -60,3 +60,7 @@ Xem thêm: Chi tiết tại mục "Hệ Thống" trên website.
 <img width="317" height="325" alt="image" src="https://github.com/user-attachments/assets/3cd75d9a-8df4-46c7-a0bb-f2541ab3f053" />
 <img width="346" height="298" alt="image" src="https://github.com/user-attachments/assets/d842eb1c-c032-499d-88ef-0ea28278c444" />
 
+
+Công cụ thiết kế trang là figma
+Lệnh sinh ra giao diện thiết kế : Dựa bản vẽ thiết kế web này tạo cho mình bản thiết kế cá nhân 
+
