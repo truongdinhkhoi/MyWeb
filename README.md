@@ -62,5 +62,7 @@ Xem thêm: Chi tiết tại mục "Hệ Thống" trên website.
 
 
 Công cụ thiết kế trang là figma
+
+
 Lệnh sinh ra giao diện thiết kế : Dựa bản vẽ thiết kế web này tạo cho mình bản thiết kế cá nhân 
 
