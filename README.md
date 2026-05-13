@@ -9,31 +9,39 @@ Tôi là một lập trình viên chuyên sâu về hạ tầng, dành trọn t�
 
 
 
-2 🛠 Hệ sinh thái kỹ năng
-Xử lý hệ thống:
+2. Năng lực Kỹ thuật & Công nghệ Chủ chốt
+Tôi tập trung phát triển các giải pháp phần mềm chuyên sâu với bộ kỹ năng kỹ thuật đa dạng:
 
-Vận hành hạ tầng: Docker, Kubernetes, AWS/Azure.
+Ngôn ngữ & Framework: Sử dụng thành thạo ngôn ngữ Go và hệ sinh thái .NET để xây dựng các dịch vụ phía máy chủ.
 
-Giao thức kết nối: Thiết kế API chuyên nghiệp, MQTT, Microservices.
+Hạ tầng & Đám mây: Kinh nghiệm làm việc với AWS (bao gồm AWS Kinesis), quản lý container bằng Docker và điều phối hệ thống qua Kubernetes.
 
-Lưu trữ dữ liệu: Quản trị và tối ưu SQL & NoSQL.
-
-
+Dữ liệu & Giám sát: Thiết lập cơ sở dữ liệu phân tán và hệ thống giám sát thời gian thực bằng Prometheus.
 
 
 
-3 🌟 Mục tiêu & Cam kết
-Hiệu suất: Tối ưu hóa từng dòng code để đảm bảo tốc độ xử lý nhanh nhất.
+3. Kinh nghiệm Dự án & Giải pháp Hệ thống
+Tôi đã tham gia thiết kế và lập trình chính cho nhiều hệ thống phức tạp, tiêu biểu như:
 
-Ổn định: Thiết kế kiến trúc chịu tải tốt và bảo mật thông tin tuyệt đối.
+IoT Gateway: Xử lý thành công hơn 1 triệu bản tin mỗi giây qua giao thức MQTT và chuyển đổi dữ liệu lên nền tảng đám mây.
 
-Sáng tạo: Luôn cập nhật và ứng dụng những công nghệ mới nhất để giải quyết bài toán của doanh nghiệp.
+Microservices: Xây dựng các dịch vụ xác thực và pipeline CI/CD tự động hóa nhằm tối ưu hóa quy trình triển khai phần mềm.
 
 
 
 
+4. Kết quả & Giá trị Đạt được
+Trong các dự án đã thực hiện, tôi luôn ưu tiên việc tối ưu hóa hiệu suất và khả năng mở rộng của hệ thống:
 
-4 📩 Liên hệ hợp tác:
+Giảm độ trễ trung bình của hệ thống lên đến 30%.
+
+Triển khai cơ chế tự động mở rộng (auto-scaling) trên môi trường Kubernetes để đảm bảo tính sẵn sàng cao.
+
+
+
+
+
+5 📩 Liên hệ hợp tác:
 
 Hòm thư: truongdinhkhoi@gmail.com
 
