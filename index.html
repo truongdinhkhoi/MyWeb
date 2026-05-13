@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trương Đình Khôi - Portfolio</title>
+    <style>
+        /* --- 1. CSS CHUNG --- */
+        * {
+            margin: 0; padding: 0; box-sizing: border-box;
+            font-family: 'Segoe UI', sans-serif;
+            scroll-behavior: smooth; /* Hiệu ứng cuộn mượt */
+        }
+
+        body { background-color: #f8f9fa; color: #333; line-height: 1.6; }
+
+        /* Navigation */
+        nav {
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 20px 10%; background: #fff; border-bottom: 1px solid #ddd;
+            position: fixed; top: 0; width: 100%; z-index: 1000;
+        }
+
+        .logo { font-weight: bold; border: 2px solid #333; padding: 5px 10px; }
+
+        nav ul { display: flex; list-style: none; }
+        nav ul li { margin-left: 25px; }
+        nav ul li a { text-decoration: none; color: #333; font-weight: bold; font-size: 14px; }
+        nav ul li a:hover { color: #007bff; }
+
+        /* Section chung */
+        section { padding: 100px 10%; min-height: 100vh; border-bottom: 1px solid #eee; }
+        .section-title { font-size: 2rem; margin-bottom: 40px; border-left: 5px solid #333; padding-left: 15px; }
+
+        /* Nút bấm */
+        .btn { display: inline-block; padding: 12px 24px; text-decoration: none; font-weight: bold; margin-top: 20px; transition: 0.3s; }
+        .btn-dark { background: #1a1a1a; color: #fff; }
+        .btn-outline { border: 1px solid #1a1a1a; color: #1a1a1a; margin-left: 10px; }
+        .btn:hover { opacity: 0.8; }
+
+        /* --- 2. CHI TIẾT TỪNG TRANG --- */
+        
+        /* Trang Chủ */
+        #home { display: flex; align-items: center; background: #fff; }
+        .hero-text { flex: 1; }
+        .hero-img { flex: 1; text-align: center; }
+        .img-placeholder { width: 300px; height: 300px; background: #eee; margin: auto; border: 1px dashed #ccc; display: flex; align-items: center; justify-content: center; }
+
+        /* Về Tôi */
+        .about-container { display: flex; gap: 40px; }
+        .profile-card { flex: 1; background: #fff; padding: 30px; text-align: center; border: 1px solid #ddd; }
+        .avatar { width: 100px; height: 100px; border-radius: 50%; background: #ddd; margin: 0 auto 15px; }
+
+        /* Hệ Thống (Grid dự án) */
+        .system-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+        .card { background: #fff; padding: 20px; border-bottom: 4px solid #333; transition: transform 0.3s; }
+        .card:hover { transform: translateY(-5px); }
+        .card-img { height: 150px; background: #eee; margin-bottom: 15px; }
+
+        /* Chi Tiết Hệ Thống */
+        .detail-box { background: #fff; padding: 40px; border: 1px solid #ddd; }
+
+        /* Liên Hệ */
+        .contact-container { display: flex; gap: 50px; }
+        .contact-form { flex: 1; display: flex; flex-direction: column; gap: 15px; }
+        .contact-form input, .contact-form textarea { padding: 12px; border: 1px solid #ddd; width: 100%; }
+
+        footer { text-align: center; padding: 40px; background: #fff; font-size: 13px; }
+    </style>
+</head>
+<body>
+
+    <!-- MENU ĐIỀU HƯỚNG -->
+    <nav>
+        <div class="logo">TK</div>
+        <ul>
+            <li><a href="#home">TRANG CHỦ</a></li>
+            <li><a href="#about">VỀ TÔI</a></li>
+            <li><a href="#system">HỆ THỐNG</a></li>
+            <li><a href="#details">CHI TIẾT</a></li>
+            <li><a href="#contact">LIÊN HỆ</a></li>
+        </ul>
+    </nav>
+
+    <!-- 1. TRANG CHỦ -->
+    <section id="home">
+        <div class="hero-text">
+            <p>Xin chào, tôi là</p>
+            <h1 style="font-size: 3.5rem; line-height: 1.2;">TRƯƠNG ĐÌNH KHÔI</h1>
+            <h3 style="color: #666;">KỸ SƯ PHẦN MỀM & GIẢI PHÁP CNTT</h3>
+            <p style="max-width: 500px; margin-top: 15px;">Xây dựng hệ thống backend hiệu năng cao, tích hợp IoT và các giải pháp đám mây tối ưu cho doanh nghiệp.</p>
+            <div class="btns">
+                <a href="#system" class="btn btn-dark">XEM DỰ ÁN</a>
+                <a href="#contact" class="btn btn-outline">HỢP TÁC NGAY</a>
+            </div>
+        </div>
+        <div class="hero-img">
+            <div class="img-placeholder">ẢNH MINH HỌA</div>
+        </div>
+    </section>
+
+    <!-- 2. VỀ TÔI -->
+    <section id="about">
+        <h2 class="section-title">VỀ TÔI</h2>
+        <div class="about-container">
+            <div class="profile-card">
+                <div class="avatar"></div>
+                <h4>Trương Đình Khôi</h4>
+                <p>Kỹ sư Hệ thống / IoT</p>
+                <div style="margin-top: 20px; font-size: 0.9rem;">
+                    <strong>Công cụ:</strong> Go, Python, AWS, Docker
+                </div>
+            </div>
+            <div style="flex: 2;">
+                <h3>Kỹ sư giải pháp công nghệ</h3>
+                <p style="margin-top: 15px;">Đam mê tối ưu hiệu năng hệ thống và phát triển backend. Tôi hướng tới xây dựng kiến trúc phần mềm tin cậy, bảo mật và có khả năng mở rộng cực cao.</p>
+                <div style="display: flex; gap: 50px; margin-top: 30px;">
+                    <div>
+                        <strong>KINH NGHIỆM</strong>
+                        <ul style="margin-top: 10px; font-size: 0.9rem;">
+                            <li>5+ năm phát triển Backend</li>
+                            <li>Quản trị hệ thống Cloud</li>
+                            <li>Tự động hóa CI/CD</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <strong>KỸ NĂNG CỐT LÕI</strong>
+                        <ul style="margin-top: 10px; font-size: 0.9rem;">
+                            <li>Thiết kế API RESTful/gRPC</li>
+                            <li>Hệ quản trị SQL & NoSQL</li>
+                            <li>Kiến trúc Microservices</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3. HỆ THỐNG -->
+    <section id="system">
+        <h2 class="section-title" style="text-align: center; border: none;">HỆ THỐNG & GIẢI PHÁP</h2>
+        <div class="system-grid">
+            <div class="card">
+                <div class="card-img"></div>
+                <h4>IoT Gateway Backend</h4>
+                <p style="font-size: 0.8rem; color: #666;">Golang, Docker, AWS Kinesis</p>
+            </div>
+            <div class="card">
+                <div class="card-img"></div>
+                <h4>Cloud Analytics Platform</h4>
+                <p style="font-size: 0.8rem; color: #666;">Kubernetes, Prometheus, Python</p>
+            </div>
+            <div class="card">
+                <div class="card-img"></div>
+                <h4>Dịch vụ Xác thực Tập trung</h4>
+                <p style="font-size: 0.8rem; color: #666;">gRPC, Redis, PostgreSQL</p>
+            </div>
+        </div>
+        <div style="text-align: center; margin-top: 40px;">
+            <a href="#details" class="btn btn-outline">XEM CHI TIẾT DỰ ÁN TIÊU BIỂU</a>
+        </div>
+    </section>
+
+    <!-- 4. CHI TIẾT HỆ THỐNG -->
+    <section id="details" style="background: #f0f2f5;">
+        <h2 class="section-title">CHI TIẾT HỆ THỐNG TIÊU BIỂU</h2>
+        <div class="detail-box">
+            <h3 style="color: #007bff;">Dự án: IoT Gateway Hiệu Năng Cao</h3>
+            <p style="margin: 15px 0;"><strong>Vai trò chính:</strong> Thiết kế kiến trúc & Phát triển Backend chính.</p>
+            <p>Hệ thống được thiết kế để xử lý luồng dữ liệu thời gian thực từ hơn 10.000 thiết bị đầu cuối thông qua giao thức MQTT và đẩy dữ liệu về AWS để phân tích.</p>
+            <div style="background: #f8f9fa; padding: 20px; margin-top: 20px; border-left: 4px solid #007bff;">
+                <strong>Kết quả:</strong> Giảm 40% độ trễ hệ thống và tiết kiệm 30% chi phí vận hành server trên Cloud.
+            </div>
+        </div>
+    </section>
+
+    <!-- 5. LIÊN HỆ -->
+    <section id="contact">
+        <h2 class="section-title">LIÊN HỆ & HỢP TÁC</h2>
+        <div class="contact-container">
+            <div style="flex: 1;">
+                <h3>Bạn có dự án mới?</h3>
+                <p style="margin: 20px 0;">Đừng ngần ngại liên hệ để thảo luận về các giải pháp CNTT tối ưu.</p>
+                <p>📍 <strong>Địa chỉ:</strong> Nha Trang, Khánh Hòa</p>
+                <p>📧 <strong>Email:</strong> truongdinhkhoi.it@gmail.com</p>
+                <p>📞 <strong>Điện thoại:</strong> 090 123 4567</p>
+            </div>
+            <form class="contact-form">
+                <input type="text" placeholder="Tên của bạn" required>
+                <input type="email" placeholder="Email của bạn" required>
+                <textarea rows="5" placeholder="Bạn đang quan tâm đến giải pháp nào?" required></textarea>
+                <button type="submit" class="btn btn-dark" style="border: none; cursor: pointer;">GỬI TIN NHẮN</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 Trương Đình Khôi - Software Engineer Portfolio</p>
+    </footer>
+
+</body>
+</html>
