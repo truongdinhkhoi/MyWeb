@@ -54,25 +54,9 @@ Xem thêm: Chi tiết tại mục "Hệ Thống" trên website.
 
 
 <img width="405" height="308" alt="trangchu" src="https://github.com/user-attachments/assets/a70b4bda-80bb-407c-9e16-0299f21ec8ed" />
-
-
-
-
 <img width="437" height="310" alt="77ed9fbb-cb4e-4a67-9250-3ae25170bdea" src="https://github.com/user-attachments/assets/cd6c5db4-7300-49b3-b0c9-dd3f55463b24" />
-
-
-
-
 <img width="297" height="316" alt="77ed9fbb-cb4e-4a67-9250-3ae25170bdea (1)" src="https://github.com/user-attachments/assets/c353be71-cebf-45ad-9b04-139f0333690b" />
-
-
-
-
 <img width="317" height="325" alt="image" src="https://github.com/user-attachments/assets/3cd75d9a-8df4-46c7-a0bb-f2541ab3f053" />
-
-
-
-
 <img width="346" height="298" alt="image" src="https://github.com/user-attachments/assets/d842eb1c-c032-499d-88ef-0ea28278c444" />
 
 
