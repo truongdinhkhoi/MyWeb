@@ -38,17 +38,18 @@ Tạo cấu trúc website rõ ràng.
 
 
 
-4. Kinh nghiệm Dự án & Giải pháp Hệ thống
-Tôi đã tham gia thiết kế và lập trình chính cho nhiều hệ thống phức tạp, tiêu biểu như:
+3. Trang hệ thống và giải pháp
+  
+Chức năng
+Điều hướng giữa các trang.
+Highlight menu “Hệ thống” để xác định trang hiện tại.
+Nhiệm vụ
+Giúp người dùng truy cập nhanh.
+Tạo trải nghiệm website chuyên nghiệp.
 
-IoT Gateway: Xử lý thành công hơn 1 triệu bản tin mỗi giây qua giao thức MQTT và chuyển đổi dữ liệu lên nền tảng đám mây.
-
-Microservices: Xây dựng các dịch vụ xác thực và pipeline CI/CD tự động hóa nhằm tối ưu hóa quy trình triển khai phần mềm.
 
 
-
-
-4. Kết quả & Giá trị Đạt được
+5. Kết quả & Giá trị Đạt được
 Trong các dự án đã thực hiện, tôi luôn ưu tiên việc tối ưu hóa hiệu suất và khả năng mở rộng của hệ thống:
 
 Giảm độ trễ trung bình của hệ thống lên đến 30%.
