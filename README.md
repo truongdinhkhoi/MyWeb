@@ -1,16 +1,14 @@
 💻 TRƯƠNG ĐÌNH KHÔI
 
-Kỹ sư Hệ thống & Giải pháp Công nghệ
-
-1 Tầm nhìn: "Đơn giản hóa những hệ thống phức tạp, xây dựng nền tảng số vững chắc và tin cậy."
-
-🔬 Chân dung kỹ thuật
-Tôi là một lập trình viên chuyên sâu về hạ tầng, dành trọn tâm huyết cho việc phát triển các giải pháp Backend hiệu năng cao và tích hợp hệ sinh thái IoT thông minh. Tôi tin rằng một hệ thống tốt là một hệ thống không chỉ hoạt động ổn định mà còn phải có khả năng tự động hóa và mở rộng không giới hạn.
+1. Kỹ sư Hệ thống & Giải pháp Công nghệ
+   
 
 
 
 
-2. Năng lực Kỹ thuật & Công nghệ Chủ chốt
+
+
+3. Năng lực Kỹ thuật & Công nghệ Chủ chốt
 Tôi tập trung phát triển các giải pháp phần mềm chuyên sâu với bộ kỹ năng kỹ thuật đa dạng:
 
 Ngôn ngữ & Framework: Sử dụng thành thạo ngôn ngữ Go và hệ sinh thái .NET để xây dựng các dịch vụ phía máy chủ.
