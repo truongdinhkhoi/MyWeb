@@ -65,3 +65,4 @@ Công cụ thiết kế trang là figma
 
 Lệnh sinh ra giao diện thiết kế : Dựa bản vẽ thiết kế web này tạo cho mình bản thiết kế cá nhân 
 
+Liên kết github page :" https://truongdinhkhoi.github.io/MyWeb/"
