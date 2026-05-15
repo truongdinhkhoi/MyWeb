@@ -28,6 +28,7 @@ Chức năng
 
 
 2. Trang giới thiệu về tôi
+   
 Chức năng
 Điều hướng giữa các trang.
 Highlight mục “Về tôi” để người dùng biết đang ở trang hiện tại.
