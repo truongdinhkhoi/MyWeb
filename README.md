@@ -49,15 +49,18 @@ Tạo trải nghiệm website chuyên nghiệp.
 
 
 
-5. Kết quả & Giá trị Đạt được
-Trong các dự án đã thực hiện, tôi luôn ưu tiên việc tối ưu hóa hiệu suất và khả năng mở rộng của hệ thống:
-
-Giảm độ trễ trung bình của hệ thống lên đến 30%.
-
-Triển khai cơ chế tự động mở rộng (auto-scaling) trên môi trường Kubernetes để đảm bảo tính sẵn sàng cao.
+4. Trang hệ thống chi tiết-tên hệ thống
 
 
-
+Chức năng
+Quay lại danh sách dự án.
+Dashboard
+Kiến trúc hệ thống
+UI monitoring
+Thiết bị IoT
+Nhiệm vụ
+Tăng trải nghiệm điều hướng.
+Giúp người dùng không bị “kẹt” trong trang chi tiết.
 
 
 5 📩 Liên hệ hợp tác:
