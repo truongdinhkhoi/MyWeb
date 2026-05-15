@@ -66,6 +66,7 @@ Xem thêm: Chi tiết tại mục "Hệ Thống" trên website.
 
 
 
+
 <img width="405" height="308" alt="trangchu" src="https://github.com/user-attachments/assets/a70b4bda-80bb-407c-9e16-0299f21ec8ed" />
 <img width="437" height="310" alt="77ed9fbb-cb4e-4a67-9250-3ae25170bdea" src="https://github.com/user-attachments/assets/cd6c5db4-7300-49b3-b0c9-dd3f55463b24" />
 <img width="297" height="316" alt="77ed9fbb-cb4e-4a67-9250-3ae25170bdea (1)" src="https://github.com/user-attachments/assets/c353be71-cebf-45ad-9b04-139f0333690b" />
@@ -74,6 +75,7 @@ Xem thêm: Chi tiết tại mục "Hệ Thống" trên website.
 
 
 Công cụ thiết kế trang là figma
+AI là genemi
 
 
 Lệnh sinh ra giao diện thiết kế : Dựa bản vẽ thiết kế web này tạo cho mình bản thiết kế cá nhân 
