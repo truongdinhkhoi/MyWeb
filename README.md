@@ -2,7 +2,7 @@
 
 1. Kỹ sư Hệ thống & Giải pháp Công nghệ
 
-1. Trang chủ (Home / Trang chủ)
+ Trang chủ (Home / Trang chủ)
 Mục tiêu
 Giới thiệu nhanh về cá nhân/doanh nghiệp.
 Tạo ấn tượng đầu tiên.
@@ -27,7 +27,7 @@ Chức năng
 
 
 
-3. Năng lực Kỹ thuật & Công nghệ Chủ chốt
+2.  Năng lực Kỹ thuật & Công nghệ Chủ chốt
 Tôi tập trung phát triển các giải pháp phần mềm chuyên sâu với bộ kỹ năng kỹ thuật đa dạng:
 
 Ngôn ngữ & Framework: Sử dụng thành thạo ngôn ngữ Go và hệ sinh thái .NET để xây dựng các dịch vụ phía máy chủ.
