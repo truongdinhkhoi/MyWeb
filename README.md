@@ -15,11 +15,11 @@ Trang chủ
 
 Về tôi
 
-Kỹ năng
+Hệ thống và giải pháp
 
-Liên hệ
+Hệ thống chi tiết-tên hệ thống
 
-Chức năng
+Liên hệ hợp tác
 
 
 
@@ -63,7 +63,7 @@ Tăng trải nghiệm điều hướng.
 Giúp người dùng không bị “kẹt” trong trang chi tiết.
 
 
-5 📩 Liên hệ hợp tác:
+5 📩 Trang liên hệ hợp tác:
 
 Hòm thư: truongdinhkhoi@gmail.com
 
