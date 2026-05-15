@@ -27,18 +27,17 @@ Chức năng
 
 
 
-2.  Năng lực Kỹ thuật & Công nghệ Chủ chốt
-Tôi tập trung phát triển các giải pháp phần mềm chuyên sâu với bộ kỹ năng kỹ thuật đa dạng:
-
-Ngôn ngữ & Framework: Sử dụng thành thạo ngôn ngữ Go và hệ sinh thái .NET để xây dựng các dịch vụ phía máy chủ.
-
-Hạ tầng & Đám mây: Kinh nghiệm làm việc với AWS (bao gồm AWS Kinesis), quản lý container bằng Docker và điều phối hệ thống qua Kubernetes.
-
-Dữ liệu & Giám sát: Thiết lập cơ sở dữ liệu phân tán và hệ thống giám sát thời gian thực bằng Prometheus.
-
+2. Trang giới thiệu về tôi
+Chức năng
+Điều hướng giữa các trang.
+Highlight mục “Về tôi” để người dùng biết đang ở trang hiện tại.
+Nhiệm vụ
+Giúp người dùng truy cập nhanh các khu vực chính.
+Tạo cấu trúc website rõ ràng.
 
 
-3. Kinh nghiệm Dự án & Giải pháp Hệ thống
+
+4. Kinh nghiệm Dự án & Giải pháp Hệ thống
 Tôi đã tham gia thiết kế và lập trình chính cho nhiều hệ thống phức tạp, tiêu biểu như:
 
 IoT Gateway: Xử lý thành công hơn 1 triệu bản tin mỗi giây qua giao thức MQTT và chuyển đổi dữ liệu lên nền tảng đám mây.
