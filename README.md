@@ -8,8 +8,7 @@ Mục tiêu
 Giới thiệu nhanh về cá nhân/doanh nghiệp.
 Tạo ấn tượng đầu tiên.
 Điều hướng người dùng đến dự án hoặc thông tin chi tiết.
-Thành phần chính
-Header / Thanh điều hướng
+   
 
 Bao gồm:
 
